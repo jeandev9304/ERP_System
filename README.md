@@ -250,3 +250,7 @@ npm run dev
 - **모듈화된 인증·인가**: Spring Authorization Server 기반 JWT 인증, 서비스별 권한 설정
 
 <br />
+
+## 🎬 시연영상
+
+- https://www.youtube.com/watch?v=J5K2udgfO-Q
